@@ -1,0 +1,6 @@
+{
+	"parent": "agab:item/wooden_atlatl",
+	"textures": {
+		"layer0": "agab:item/enhanced_atlatl"
+	}
+}
